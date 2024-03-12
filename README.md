@@ -2,6 +2,10 @@
 
 This Python script takes an input image, converts it into a sketch, and displays both the original and the sketch images using the OpenCV library.
 
+![psyduck](https://github.com/ridsb/img_to_sketch/assets/108459805/b1070a8c-5d67-4e11-8783-e6d2e8470d88)
+
+![sketch](https://github.com/ridsb/img_to_sketch/assets/108459805/b8aa0729-bd69-44b3-90bf-db347969a6d6)
+
 ## Prerequisites
 
 - Python 3.x
